@@ -1,0 +1,24 @@
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #CD1818;
+}
+
+button {
+    cursor: pointer;
+}
+
+.head{
+    color: whitesmoke;
+}
+
